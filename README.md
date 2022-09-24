@@ -1,2 +1,2 @@
-# Jeffrey145的日誌
-這是Jeffrey145的簡易日誌
+# Jeffrey145's blog
+This is Jeffrey145's simple blog.
