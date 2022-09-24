@@ -7,7 +7,7 @@ body{
     background-size: cover;
     background-repeat: no-repeat;
     background-attachment: fixed;
-    /* background-color: lightgray; */
+    background-color: black;
     margin: 0px;
 }
 
@@ -54,6 +54,7 @@ div.article{
 @media only screen and (max-width: 600px) {
     body{
         background-size: 150%;
+        background-color: black;
     }
 
     header{
